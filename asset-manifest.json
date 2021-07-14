@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Assignment-1/static/css/main.e75d636c.chunk.css",
+    "main.js": "/React-Assignment-1/static/js/main.505108aa.chunk.js",
+    "main.js.map": "/React-Assignment-1/static/js/main.505108aa.chunk.js.map",
+    "runtime-main.js": "/React-Assignment-1/static/js/runtime-main.8fce0438.js",
+    "runtime-main.js.map": "/React-Assignment-1/static/js/runtime-main.8fce0438.js.map",
+    "static/js/2.63c8a3f4.chunk.js": "/React-Assignment-1/static/js/2.63c8a3f4.chunk.js",
+    "static/js/2.63c8a3f4.chunk.js.map": "/React-Assignment-1/static/js/2.63c8a3f4.chunk.js.map",
+    "static/js/3.477bca92.chunk.js": "/React-Assignment-1/static/js/3.477bca92.chunk.js",
+    "static/js/3.477bca92.chunk.js.map": "/React-Assignment-1/static/js/3.477bca92.chunk.js.map",
+    "index.html": "/React-Assignment-1/index.html",
+    "static/css/main.e75d636c.chunk.css.map": "/React-Assignment-1/static/css/main.e75d636c.chunk.css.map",
+    "static/js/2.63c8a3f4.chunk.js.LICENSE.txt": "/React-Assignment-1/static/js/2.63c8a3f4.chunk.js.LICENSE.txt",
+    "static/media/allp.ddf827cb.png": "/React-Assignment-1/static/media/allp.ddf827cb.png",
+    "static/media/badge.8329661e.png": "/React-Assignment-1/static/media/badge.8329661e.png",
+    "static/media/perman.158faba1.png": "/React-Assignment-1/static/media/perman.158faba1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fce0438.js",
+    "static/js/2.63c8a3f4.chunk.js",
+    "static/css/main.e75d636c.chunk.css",
+    "static/js/main.505108aa.chunk.js"
+  ]
+}
